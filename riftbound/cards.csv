@@ -1,3 +1,6 @@
 name,set,quantity,type,color,altArt,overnumbered,image
 Scuttle Crab,UNL,1,UNIT,CALM,FALSE,FALSE,scuttle-crab-unl.avif
-Defy,OGN,1,SPELL,CALM,false,false,defy-ogn.avif
+Defy,OGN,0,SPELL,CALM,false,false,defy-ogn.avif
+First Mate,OGN,1,UNIT,BODY,false,false,first-mate-ogn.avif
+Fiora Peerless,SFD,1,UNIT,BODY,false,false,fiora-peerless-sfd.avif
+Kai'Sa Survivor,OGN,1,UNIT,FURY,false,false,kaisa-survivor-ogn.avif
